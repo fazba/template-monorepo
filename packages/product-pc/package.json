@@ -1,0 +1,23 @@
+{
+  "name": "product-pc",
+  "version": "0.2.1",
+  "description": "湖南 产品制作",
+  "keywords": [
+    "frontend"
+  ],
+  "homepage": "...",
+  "engines": {
+    "node": ">= 16"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --mode production"
+  },
+  "dependencies": {
+    "cqkj-map": "^2.9.1",
+    "element-plus": "^2.2.5",
+    "leaflet": "^1.9.2",
+    "nprogress": "^0.2.0",
+    "three": "^0.145.0"
+  }
+}
